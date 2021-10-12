@@ -24,9 +24,7 @@ export class Menu extends Component {
             return(
                 <MenuList
                     key={index}
-                    name={item.menuName}
-                    title={item.subtitle}
-                    type={item.category}
+                    menu={item}
                     delMenu={ () =>this.deleteBook(index) }
                 />
             )

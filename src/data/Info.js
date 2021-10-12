@@ -35,27 +35,36 @@ export const menuInfo= [
     id: 1,
     menuName: "Lethil Burger",
     subtitle:"A Modern Lethil Burger",
+    image:"assets/1.jpg",
     category: "Hot",
     description:
-      "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
-    website: "http://eloquentjavascript.net/",
+      "The best burgers offer a combination of tastes and textures – sweet, sour, salt – with a bit of crunch. The patty needs to be juicy, the bun soft but sturdy, and you want the meat/bun/accompaniment ratio to be even from first to last bite."
   },
   {
     id: 2,
     menuName: "Cheese Burger",
     subtitle:"A Modern Cheese Burger",
+    image:"assets/2.jpg",
     category: "Cheese",
     description:
-      "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
-    website: "http://eloquentjavascript.net/",
+      "The best burgers offer a combination of tastes and textures – sweet, sour, salt – with a bit of crunch. The patty needs to be juicy, the bun soft but sturdy, and you want the meat/bun/accompaniment ratio to be even from first to last bite."
   },
   {
     id: 3,
     menuName: "Naga Burger",
     subtitle:"A Modern Naga Burger",
+    image:"assets/1.jpg",
     category: "Naga",
     description:
-      "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
-    website: "http://eloquentjavascript.net/",
+      "The best burgers offer a combination of tastes and textures – sweet, sour, salt – with a bit of crunch. The patty needs to be juicy, the bun soft but sturdy, and you want the meat/bun/accompaniment ratio to be even from first to last bite."
+  },
+  {
+    id: 3,
+    menuName: "Beef Burger",
+    subtitle:"A Modern Beef Burger",
+    image:"assets/2.jpg",
+    category: "Beef",
+    description:
+      "The best burgers offer a combination of tastes and textures – sweet, sour, salt – with a bit of crunch. The patty needs to be juicy, the bun soft but sturdy, and you want the meat/bun/accompaniment ratio to be even from first to last bite."
   }
 ]
